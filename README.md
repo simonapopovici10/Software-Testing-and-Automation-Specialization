@@ -1,4 +1,4 @@
-# Software-Testing-and-Automation-Specialization
+# Software-Testing-and-Automation-Specialization-University-of-Minnesota-Coursera
 
 https://www.coursera.org/specializations/software-testing-automation
 
